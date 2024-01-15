@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinod1kumar&label=Profile%20views&color=0e75b6&style=flat" alt="vinod1kumar" /> </p>
 
-- 📫 How to reach me **vk30000009@gmail.com**
+- 📫 How to reach me **vinod_k1@ch.iitr.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
